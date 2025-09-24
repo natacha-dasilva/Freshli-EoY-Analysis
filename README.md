@@ -1,5 +1,5 @@
 # Freshli EoY Trend Analysis - Project Overview
----
+
 ## The Project
 ---
 Freshli is a relatively new supermarket trying to make a name for itself among other well-established supermarket giants. In order to grow and stay competitive, stakeholders want an EoY Power BI report to be created for the marketing team so that they can spot trends and opportunities for next year. To maximise their efforts across email campaigns, social media posts, website promotions and in-store promotions it is important to analyse: high performing categories vs low performing categories, footfall vs online orders and peak times for shopping. Combining the insights they get from the dashboard, along with a calendar of marketing campaigns executed throughout the year, the team can cross-reference which campaigns drove in the most traffic and if there are categories or promotions they can push. They can also spot days and months where sales are low to get more customers in with incentives.
