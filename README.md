@@ -2,14 +2,14 @@
 
 ## The Project
 
-Freshli is a relatively new supermarket trying to make a name for itself among other well-established supermarket giants. In order to grow and stay competitive, stakeholders want an EoY Power BI report to be created for the marketing team so that they can spot trends and opportunities for next year. To maximise their efforts across email campaigns, social media posts, website promotions and in-store promotions it is important to analyse: high performing categories vs low performing categories, footfall vs online orders and peak times for shopping. Combining the insights they get from the dashboard, along with a calendar of marketing campaigns executed throughout the year, the team can cross-reference which campaigns drove in the most traffic and if there are categories or promotions they can push. They can also spot days and months where sales are low to get more customers in with incentives.
+Freshli is a relatively new supermarket trying to make a name for itself among other well-established supermarket giants. In order to grow and stay competitive, stakeholders want an EoY Power BI report to be created for the marketing team so that they can spot trends and opportunities for next year. To maximise their efforts across email campaigns, social media posts, website promotions and in-store promotions it is important to analyse: high performing categories vs low performing categories, footfall vs online orders and peak times for shopping. Combining the insights they get from the report, along with a calendar of marketing campaigns executed throughout the year, the team can cross-reference which campaigns drove in the most traffic and if there are categories or promotions they can push. They can also spot days and months where sales are low to get more customers in with incentives.
  
 ## Dataset
 
 The dataset consisted of one table, including information about sales, purchase categories and whether they purchased the items in-store or online. There were a lot of cells with missing values so I had to clean the data and ensure it was prepared for loading. Two tables were created by myself, a date table with a one-to-many relationship and a measures table which included time intelligence and business KPI measures as seen below.
 ![dataset](https://github.com/natacha-dasilva/Data-Cleaning-Challenges/blob/main/Assets/Freshli%20Table%20Relationships.png)
  
-## Dashboard
+## Report
 
 https://github.com/user-attachments/assets/2cab2504-c522-4bbf-8916-b7d9d4979b29
  
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/2cab2504-c522-4bbf-8916-b7d9d4979b29
 - **Seasonality** - In-store from June to November sales are low, identifying national and international days that relate to our products to push sales would be beneficial. November in particular needs more marketing efforts as it is the month with the lowest in-store sales - a focus on Black Friday and sneak peeks of what discounts could be coming their way may drive sales. We get double the number of transactions where discounts were applied so we know this is already a great way to bring in more customers.
 - **Campaigns** - Both in-store and online, July was one of the slowest months in terms of sales. It also saw a huge drop in sales compared to last year so we would benefit from planning a huge summer campaign to bring sales back up. Perhaps identifying trending summer items that can be sold at Freshli and discussing it with the merchandising team in order to bring excitement and freshness to the store to compete alongside other supermarket giants.
  
-## Beyond the Dashboard
+## Beyond the Report
 
 The presentation created for the marketing team walks through the insights and recommendations above. Some extracts from the presentation are presented below for easy viewing.
 ![Presentation Slide Example 1](https://github.com/natacha-dasilva/Data-Cleaning-Challenges/blob/main/Assets/Presentation%20Slide%20Example%201.png)
